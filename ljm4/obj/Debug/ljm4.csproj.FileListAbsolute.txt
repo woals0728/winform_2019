@@ -1,0 +1,70 @@
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\obj\Debug\ljm4.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\obj\Debug\ljm4.Form1.resources
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\obj\Debug\ljm4.Form2.resources
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\obj\Debug\ljm4.Properties.Resources.resources
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\obj\Debug\ljm4.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\obj\Debug\ljm4.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\bin\Debug\ljm4.exe.config
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\bin\Debug\ljm4.exe
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\bin\Debug\ljm4.pdb
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\bin\Debug\MySql.Data.dll
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\obj\Debug\ljm4.csproj.CopyComplete
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\obj\Debug\ljm4.exe
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\obj\Debug\ljm4.pdb
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\obj\Debug\ljm4.Form3.resources
+C:\Users\MTPC4-06\Desktop\ljm4\ljm4\obj\Debug\ljm4.Form4.resources
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\bin\Debug\ljm4.exe.config
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\bin\Debug\ljm4.exe
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\bin\Debug\ljm4.pdb
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\bin\Debug\MySql.Data.dll
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\obj\Debug\ljm4.csprojAssemblyReference.cache
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\obj\Debug\ljm4.Form1.resources
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\obj\Debug\ljm4.Form2.resources
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\obj\Debug\ljm4.Form4.resources
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\obj\Debug\ljm4.Properties.Resources.resources
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\obj\Debug\ljm4.csproj.GenerateResource.cache
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\obj\Debug\ljm4.csproj.CoreCompileInputs.cache
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\obj\Debug\ljm4.csproj.CopyComplete
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\obj\Debug\ljm4.exe
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\obj\Debug\ljm4.pdb
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\bin\Debug\ljm4.exe.config
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\bin\Debug\ljm4.exe
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\bin\Debug\ljm4.pdb
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\obj\Debug\ljm4.csprojAssemblyReference.cache
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\obj\Debug\ljm4.Form1.resources
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\obj\Debug\ljm4.Form2.resources
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\obj\Debug\ljm4.Form4.resources
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\obj\Debug\ljm4.Properties.Resources.resources
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\obj\Debug\ljm4.csproj.GenerateResource.cache
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\obj\Debug\ljm4.csproj.CoreCompileInputs.cache
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\obj\Debug\ljm4.csproj.CopyComplete
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\obj\Debug\ljm4.exe
+C:\Users\jaemin\Desktop\Desktop (1)\근태관리 프로그램\ljm4\obj\Debug\ljm4.pdb
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\bin\Debug\DiffieHellman.dll
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\bin\Debug\Org.Mentalis.Security.dll
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\bin\Debug\MetroFramework.dll
+C:\Users\MTPC4-06\Desktop\근태관리 프로그램\ljm4\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\ljm4.exe.config
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\ljm4.exe
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\ljm4.pdb
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\MetroFramework.dll
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\MySql.Data.dll
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\Google.Protobuf.dll
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\Renci.SshNet.dll
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\DiffieHellman.dll
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\Org.Mentalis.Security.dll
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\bin\Debug\MySql.Data.xml
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\obj\Debug\ljm4.csprojAssemblyReference.cache
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\obj\Debug\ljm4.Form1.resources
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\obj\Debug\ljm4.Form2.resources
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\obj\Debug\ljm4.Form4.resources
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\obj\Debug\ljm4.Properties.Resources.resources
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\obj\Debug\ljm4.csproj.GenerateResource.cache
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\obj\Debug\ljm4.csproj.CoreCompileInputs.cache
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\obj\Debug\ljm4.csproj.CopyComplete
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\obj\Debug\ljm4.exe
+C:\Users\jaemin\Desktop\근태관리 프로그램 (2)\근태관리 프로그램\ljm4\obj\Debug\ljm4.pdb
